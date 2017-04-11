@@ -1,0 +1,19 @@
+Apphus AppSecurity Project Guide
+
+Hello, and welcome.  Thanks for checking out the Apphus AppSecurity project.  We are delivering a new level of security to your projects on the web.
+
+Goal
+
+Functional Double Submit Cookie package using Oauth2 and JWT Tokens and CSRF for stateless authentication. No need for session checks on each request.
+
+Methods
+
+Partnered programming...what else should go here Peter?
+
+Styles
+
+The Apphus AppSecurity project follows the Airbnb Style Guide https://github.com/airbnb/javascript with a focus on descriptive method and variable names.  We write readable code.
+
+Roles
+
+We are currently looking for contributers.   Anyone interested in all-round persistant internet security, plain and simple JavaScript/AJAX while uncovering the holy grail of "best practices", and performant and efficient code is encouraged to apply.  The goal is that any Pair-Programmers in on this would benefit equally as long as THEY CAN AND WILL EQUALY CONTRIBUTE TO THE PROJECT.
